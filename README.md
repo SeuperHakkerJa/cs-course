@@ -1,2 +1,2 @@
 # Intro to Computer Science:
-CS 50: https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x
+MIT 6.001x: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm
